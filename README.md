@@ -11,9 +11,8 @@
 - 📊 [EDA Assignments and Projects](https://github.com/krishna111809/EDA-Assignments-and-Projects)  
 - 🤖 [ML Assignments and Projects](https://github.com/krishna111809/ML-Assignments-and-Projects)  
 - 🖐️ [Fingerprint Blood Group Detection](https://github.com/krishna111809/fingerprint-based-blood-group-detection)  
-- ✍️ [Text Editor ReactJS App](https://github.com/krishna111809/Text-Editor-Reactjs-App)  
-
----
+- ✍️ [Text Editor ReactJS App](https://github.com/krishna111809/Text-Editor-Reactjs-App)
+- 💳 [Smart Expense Splitter (Full-Stack App)](https://github.com/krishna111809/smart-expense-splitter)
 
 ## 🏆 Achievements
 - 📄 Published IEEE research paper: *“Analyses of Face Mask Detection using Deep Neural Network”* – ICCCI 2023, Coimbatore.  
@@ -35,6 +34,7 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
 ### Data Science & ML  
